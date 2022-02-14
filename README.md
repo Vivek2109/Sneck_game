@@ -1,3 +1,4 @@
 # Sneck_game
 Simple Sneck game by using java Swing library.
-![sneck_game2](https://user-images.githubusercontent.com/95842318/153860328-76081ca7-af7e-4913-a2b5-3eb0e98b8d8a.png)
+![sneck_game2](https://user-images.githubusercontent.com/95842318/153860916-c722d60b-df55-40b4-8d7a-cf518a08f6d1.png)
+
